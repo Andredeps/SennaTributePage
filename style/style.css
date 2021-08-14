@@ -60,7 +60,7 @@ img {
 }
 
 ul {
-    max-width: 550px;
+    max-width: 600px;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.6;
@@ -72,7 +72,7 @@ li {
 
 blockquote {
     font-style: italic;
-    max-width: 545px;
+    max-width: 600px;
     margin: 0 auto 50px auto;
     text-align: left;
 }
@@ -81,5 +81,3 @@ footer a{
     color: #333;
     text-decoration: none;
 }
-
-/*Media Queries +++++++++++++++++++++++++++++++++++ */
